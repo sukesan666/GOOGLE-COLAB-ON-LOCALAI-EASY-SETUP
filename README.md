@@ -1,0 +1,2 @@
+# GOOGLE-COLAB-T4-L4
+GOOGLE COLAB上にローカルAIを作るノートブックです。
