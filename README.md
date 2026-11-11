@@ -1,4 +1,4 @@
-# GOOGLE-COLAB-T4-L4
+# GOOGLE-COLAB-ON-LOCALAI-EASY-SETUP
 GOOGLE COLAB上にローカルAIを作るノートブックです。ファイルを読み込んでセルを再生するとcolab上にローカルAIとコードエディタと通信するためのトンネルのURLが作れます。
 
 AI Coding Agentが必要です。初心者用です。
